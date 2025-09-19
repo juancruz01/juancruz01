@@ -4,11 +4,11 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  ***About me***
 
 I am a Computer Programming student currently halfway through my degree. I have experience with Python, JavaScript, and HTML. I love to learn and build new, productive, innovative, and creative projects.
-* **I am interested in Web designing, Data Analytics**
+* **I am interested in Web designing(Front End), Back End**
 - 🌱 I’m currently learning ...
-  - Power BI
-  - My SQL 
   - React js
+  - Node js 
+  - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 🏃‍♂️ I love doing sports and going for a run, 🖌️ do painting and skecthing, 🎵 listen to music, and  🎮 playing videogames.
