@@ -7,7 +7,7 @@ I am a Computer Programming student currently halfway through my degree. I have 
 * **I am interested in Web designing(Front End), Back End**
 - 🌱 I’m currently learning ...
   - React js
-  - Node js 
+  - .NET 
   - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
